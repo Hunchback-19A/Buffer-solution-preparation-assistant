@@ -1,5 +1,7 @@
 # Buffer Solution Assistant
 
+Latest release: v1.0.0-beta (See Releases section) 
+
 `Buffer Solution Assistant` is a Windows desktop GUI for preparing common lab buffers with practical calculation steps and guidance.
 
 It supports:
